@@ -1,2 +1,0 @@
-# creativeXP
-Innovative Portfolio Website 
